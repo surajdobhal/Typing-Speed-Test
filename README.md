@@ -1,2 +1,1 @@
-WELCOME TO
-# Typing-Speed-Test
+# WELCOME TO Typing-Speed-Test
