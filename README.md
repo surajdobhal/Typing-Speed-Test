@@ -2,5 +2,6 @@
  
  > A typing speed test project using HTML, CSS, Javascript and Bootstrap. 
  
-##### Demo: [click Here](https://surajdobhal.github.io/Typing-Speed-Test/ "Typing-Speed-Check")  
+### Demo: [Click Here](https://surajdobhal.github.io/Typing-Speed-Test/ "Typing-Speed-Check")  
  
+![Markdown Logo](https://github.com/surajdobhal/Typing-Speed-Test/blob/master/typing.jpg)
