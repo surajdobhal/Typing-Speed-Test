@@ -4,4 +4,4 @@
  
 ### Demo: [Click Here](https://surajdobhal.github.io/Typing-Speed-Test/ "Typing-Speed-Check")  
  
-![Markdown Logo](https://github.com/surajdobhal/Typing-Speed-Test/blob/master/typing.jpg)
+![Markdown Logo](https://github.com/surajdobhal/Typing-Speed-Test/blob/master/check.jpg)
