@@ -49,7 +49,7 @@ btn.addEventListener('click',function(){
     if(this.innerText == 'Start'){
        type.disabled= false;
        result.innerText = " ";
-      //  type.value = " ";
+       type.value = "";
        playgame();
     }
     else if(this.innerText == 'Done'){
